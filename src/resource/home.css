@@ -1,0 +1,7 @@
+.root{
+    //-fx-background-color: linear-gradient(to top right, #2b0285, #8921da, #3d79f1);
+    -fx-background-image: url("../images/home_bg.jpg");
+    -fx-background-size: 100% 100%;
+    -fx-background-repeat: no-repeat;
+    -fx-background-position: center center;
+}
